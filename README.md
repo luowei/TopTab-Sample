@@ -1,2 +1,7 @@
-# TopTab-Sample
-一个顶部横向滑动切换标签页的示例，类似腾讯新闻。
+TopTab-Sample
+=================
+
+类似腾讯新闻的横向滑动视图示例...
+
+效果截图:
+![效果图](./TopTab-Sample/doc/slide-demo.gif)
